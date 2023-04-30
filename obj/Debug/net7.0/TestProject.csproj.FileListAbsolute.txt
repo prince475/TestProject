@@ -1,0 +1,15 @@
+/home/prince/Development/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/prince/Development/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/prince/Development/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/prince/Development/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/prince/Development/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/prince/Development/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
